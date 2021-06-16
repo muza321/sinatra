@@ -6,7 +6,7 @@ get '/' do
 end
 
 get '/secret' do
-  "Secret code! Shhh!!"
+  "Secret code!"
 end
 
 get '/hello' do
